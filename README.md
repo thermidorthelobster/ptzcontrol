@@ -9,7 +9,7 @@ This project is intended to use an inexpensive, generic pan & tilt head to provi
 Requirements
 
 The following hardware is needed:
-- Hague MPH Pan & Tilt Power Head 360° (£160)
+- Hague MPH Pan & Tilt Power Head 360° (£160) - this is sold under various names & brands in different territories
 - Arduino-compatible board with R3 footprint (<£10)
 - Blackmagic Design 3G-SDI Arduino Shield (£90)
 - Optional: Arduino Shield board, for ease of wiring
